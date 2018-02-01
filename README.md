@@ -1,5 +1,2 @@
 # hello.world
-figuring stuff out. 
-
-
-Lorem ipsum etc
+figuring stuff out
